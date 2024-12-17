@@ -47,8 +47,8 @@ Follow these steps to set up the app on your local machine:
 
 1. Clone the project repository:
    ```bash
-   git clone <Your-GitHub-Link>
-   cd CalcMaster_Final
+   git clone <https://github.com/04harsimran20/Cal_master>
+   cd Cal_Master_Final
    ```
 2. Install dependencies:
    ```bash
@@ -71,8 +71,8 @@ Follow these steps to set up the app on your local machine:
 
 2. **Dynamic Theme**:
 
-   - Dark Mode: Replicates the **iPhone calculator** UI.
-   - Light Mode: Replicates the **Google calculator** UI.
+   - Dark Mode
+   - Light Mode
 
 3. **Calculation History**:
 
